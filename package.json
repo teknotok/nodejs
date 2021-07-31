@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/teknotok/nodejs#readme",
   "dependencies": {
-    "d3-random": "^3.0.1",
     "mongoose": "^5.13.5",
-    "seedrandom": "^3.0.5",
     "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.0",
+    "nodemon": "^2.0.12"
   }
 }
