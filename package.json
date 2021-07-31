@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teknotok/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teknotok/nodejs/issues"
+  },
+  "homepage": "https://github.com/teknotok/nodejs#readme",
+  "dependencies": {
+    "d3-random": "^3.0.1",
+    "mongoose": "^5.13.5",
+    "seedrandom": "^3.0.5",
+    "underscore": "^1.13.1"
+  }
+}
