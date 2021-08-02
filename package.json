@@ -18,7 +18,9 @@
   "homepage": "https://github.com/teknotok/nodejs#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "joi": "^17.1.1"
+    "helmet": "^4.6.0",
+    "joi": "^17.1.1",
+    "morgan": "^1.10.0"
   },
   "devDependencies": {}
 }
